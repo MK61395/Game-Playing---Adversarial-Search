@@ -11,11 +11,6 @@ This repository contains implementations and experiments with various AI techniq
    - Developing parallelized and heuristic-based versions of Alpha-Beta Pruning.
    - Creating a modified Tic-Tac-Toe game with a "weak" AI player featuring randomized decision-making.
 
-2. **Search and Problem Solving in Graph Structures**:
-   - Finding optimal graph structures using BFS, DFS, and UCS algorithms.
-   - Experimenting with vertex ordering problems in Bayesian Network Learning.
-   - Applying genetic algorithms for solving classic 3x3 magic square puzzles.
-
 ## Question 1: Tic-Tac-Toe with Minimax and Alpha-Beta Pruning
 
 ### Implementation Overview
